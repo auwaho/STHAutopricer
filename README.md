@@ -1,5 +1,6 @@
 # STHAutopricer
-Autochecker for google chrome extension - SteamTraderHelper. 
+Autochecker for Google Chrome extension - Steam Trader Helper.
+Works via Selenium WebDriver.
 
 ![STHAutopricer](https://github.com/auwaho/STHAutopricer/blob/master/screenshot.png)
 
