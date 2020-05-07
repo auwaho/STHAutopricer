@@ -1,5 +1,5 @@
 # STHAutopricer
-Old program for google chrome extension - SteamTraderHelper. 
+Autochecker for google chrome extension - SteamTraderHelper. 
 
 ![STHAutopricer](https://github.com/auwaho/STHAutopricer/blob/master/screenshot.png)
 
